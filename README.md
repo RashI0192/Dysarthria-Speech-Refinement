@@ -99,14 +99,6 @@ To launch the Streamlit app, run:
 streamlit run app.py
 ```
 
-## Model Training & Dataset
-- We first loaded, prepared, and labeled our dataset, identifying high-quality audio samples for model training.
-- Subsequently, we harnessed **Wav2Vec2**, **CNN-based classifiers**, and **emotion detection models** to analyze speech patterns effectively.
-
-## Future Enhancements
-- Improve **real-time speech recognition** by optimizing microphone input processing.
-- Expand **emotion recognition** with a broader dataset.
-- Develop a **mobile-friendly UI** for better accessibility.
 
 ---
 
