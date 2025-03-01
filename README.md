@@ -18,8 +18,8 @@
 - Slide deck - PitchSlidesFiveNeuralNetwork.pdf
 ## Overview
 **Eusarthria** is a Streamlit-based web application designed to perform various speech-related tasks, including:
-- **Slurred Speech Detection** 96.7% Accuracy on detecting Dysarthria audio - Classification_Model.ipynb
-- **Audio To Text** Ensemble learning using Latent Hiearchy and X Hierarchy to refine audio files and AlexNet to caption : Dysarthria_audio_to_text.ipynb
+- **Slurred Speech Detection** 96.7% Accuracy on detecting Dysarthria audio - **Classification_Model.ipynb**
+- **Audio To Text** Ensemble learning using Latent Hiearchy and X Hierarchy to refine audio files and AlexNet to caption - **Dysarthria_audio_to_text.ipynb**
 - **LLM Refiner** Prompt Engineered and Fine-Tuned Mistral-7B - **LLM Text Refinement.ipynb**
 - **Natural Voice AI Generator** Generated Speech
 - **Gradient Accumulation** used for GPU - RAM efficency when training and running models efficently 
