@@ -15,6 +15,7 @@
 
 - Check out our Jupyter notebooks for detailed analysis.
 - Dataset For Dysarthia - https://www.kaggle.com/datasets/iamhungundji/dysarthria-detection/code
+- Slide deck - PitchSlidesFiveNeuralNetwork.pdf
 ## Overview
 **Eusarthria** is a Streamlit-based web application designed to perform various speech-related tasks, including:
 - **Slurred Speech Detection** 96.7% Accuracy on detecting Dysarthria audio - Classification_Model.ipynb
@@ -118,4 +119,4 @@ streamlit run app.py
 For any issues or feature requests, please open an issue in the repository.
 
 ---
-Thank you for using the Eusarthria! 🚀
+Thank you for using Eusarthria! 🚀
