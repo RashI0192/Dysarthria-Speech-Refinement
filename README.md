@@ -13,7 +13,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Huggingface-FFDC60?style=for-the-badge&logo=huggingface&logoColor=white)
 
-Check out our Jupyter notebooks for detailed analysis
+Check out our Jupyter notebooks for detailed analysis.
+Dataset For Dysarthia - https://www.kaggle.com/datasets/iamhungundji/dysarthria-detection/code
 ## Overview
 **Eusarthria** is a Streamlit-based web application designed to perform various speech-related tasks, including:
 - **Slurred Speech Detection** 96.7% Accuracy on detecting Dysarthria audio - Classification_Model.ipynb
