@@ -85,7 +85,7 @@ Make sure you have **Python 3.7+** installed along with the required dependencie
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/speech-processing-app.git
+   git clone https://github.com/RashI0192/Dysarthria-Speech-Refinement.git
    cd speech-processing-app
    ```
 2. Install dependencies:
